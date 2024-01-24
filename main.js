@@ -21,6 +21,6 @@ function fizzBuzz(j){
         classe = contenu + " col "
         $("#contenu").append("<div class='"+classe+"'>"+contenu+"</div>");
         contenu = "";
-    }
+    }g
 }
 
